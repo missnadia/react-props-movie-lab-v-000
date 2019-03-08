@@ -44,5 +44,5 @@ MovieCard.defaultProps = {
   title: 'Unknown',
   IMDBRating: null,
   genres = 'No Genre(s) Found',
-  poster = default
+  poster = 'default'
 }
